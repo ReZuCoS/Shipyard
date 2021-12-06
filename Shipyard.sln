@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipyard", "Shipyard\Shipyard.csproj", "{00952FAC-80D1-4417-B1D1-4CAA4AEBE17D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00952FAC-80D1-4417-B1D1-4CAA4AEBE17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00952FAC-80D1-4417-B1D1-4CAA4AEBE17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00952FAC-80D1-4417-B1D1-4CAA4AEBE17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00952FAC-80D1-4417-B1D1-4CAA4AEBE17D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797E35E5-BDBD-4210-8295-4217E090996F}
+	EndGlobalSection
+EndGlobal
